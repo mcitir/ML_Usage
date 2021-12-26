@@ -3,6 +3,14 @@ Scikit-Learn has a class named as `Lasso` to fit **linear regression** model to 
 
 http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
 
+**output:**
+
+```python
+[ 0.          2.35793224  2.00441646 -0.05511954 -3.92808318  0.        ]
+```
+
+**codes:**
+
 ```python
 # TODO: Add import statements
 import numpy as np
